@@ -29,4 +29,3 @@ COPY run.sh ./
 
 EXPOSE 10300
 
-ENTRYPOINT ["bash", "/run.sh"]
